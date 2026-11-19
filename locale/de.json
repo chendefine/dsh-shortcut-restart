@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Container neu starten",
+    "description": "Fügt im Kontomenü am linken Rand vorletztes eine Zeile „Container neu starten“ ein; der Host führt daraufhin den reboot-Befehl dieser Bereitstellung aus, der Container wird über die Restart-Richtlinie zurückgebracht und die Seite verbindet sich neu. Sitzungen auf der Festplatte bleiben erhalten. Setzt den reboot-Helfer oder passwortloses sudo voraus.Solange Sitzungen laufen, listet ein Dialog diese stattdessen auf und lehnt ab; der Hinweis verschwindet, sobald die Seite neu verbunden ist.Ein Bestätigungsdialog schaltet den Neustart frei.Laufende Hintergrundaufgaben werden ebenfalls erkannt."
+  }
+}

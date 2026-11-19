@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Redémarrer le conteneur",
+    "description": "Ajoute une ligne « Redémarrer le conteneur » en avant-dernière position du menu de compte en bas de la barre latérale ; l’hôte exécute alors la commande reboot de ce déploiement : le conteneur s’arrête, sa politique de redémarrage le relance et la page se reconnecte. Les sessions sur disque sont conservées. Requiert l’aide reboot ou sudo sans mot de passe.Tant que des sessions tournent, un dialogue les liste et s’y refuse ; l’avis disparaît dès que la page se reconnecte.Un dialogue de confirmation précède le redémarrage.Les tâches en arrière-plan actives sont aussi détectées."
+  }
+}

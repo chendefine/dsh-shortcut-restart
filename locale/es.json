@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reiniciar contenedor",
+    "description": "Añade una fila «Reiniciar contenedor» en la penúltima posición del menú de cuenta del pie de la barra lateral; al elegir-la, el Host ejecuta el comando reboot del despliegue: el contenedor sale, su política de reinicio lo devuelve y la página se reconecta. Las sesiones en disco se conservan. Depende del ayudante reboot o de sudo sin contraseña.Mientras haya sesiones en ejecución, un diálogo las enumera y se abstiene; el aviso desaparece cuando la página se reconecta.Un diálogo de confirmación autoriza el reinicio.Las tareas en segundo plano activas también se detectan."
+  }
+}

@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-shortcut-restart
+      name: dsh-shortcut-restart
+      config: {}

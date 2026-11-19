@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300">
+  <!-- Text-free illustration: the account menu with the restart row second-to-last. -->
+  <rect x="236" y="32" width="168" height="236" rx="14" fill="#f2f4f7" stroke="#c2c9d4" stroke-width="2"/>
+  <circle cx="320" cy="72" r="14" fill="#c8cfda"/>
+  <line x1="266" y1="104" x2="374" y2="104" stroke="#c2c9d4" stroke-width="2"/>
+  <g>
+    <rect x="258" y="126" width="124" height="18" rx="9" fill="#c8cfda"/>
+    <rect x="258" y="164" width="124" height="18" rx="9" fill="#c8cfda"/>
+  </g>
+  <g>
+    <rect x="254" y="196" width="132" height="38" rx="10" fill="#247bbf"/>
+    <path d="M284 215a9 9 0 1 1-2.64-6.36" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+    <path d="M285.3 212.5 283.2 211.4 285.6 209.9Z" fill="#ffffff"/>
+    <rect x="294" y="206" width="76" height="18" rx="9" fill="#ffffff" opacity="0.85"/>
+  </g>
+  <rect x="258" y="248" width="124" height="18" rx="9" fill="#c8cfda"/>
+</svg>

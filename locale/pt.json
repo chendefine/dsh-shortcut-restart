@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reiniciar contêiner",
+    "description": "Adiciona a linha “Reiniciar contêiner” na penúltima posição do menu de conta no pé da barra lateral; ao escolhê-la, o Host executa o comando reboot desta implantação: o contêiner encerra, sua política de reinício o traz de volta e a página reconecta. Sessões em disco permanecem. Depende do ajudante reboot ou de sudo sem senha.Enquanto há sessões em execução, um diálogo as lista e se recusa; o aviso desaparece quando a página reconecta.Um diálogo de confirmação antecede o reinício.Tarefas em segundo plano ativas também são detectadas."
+  }
+}

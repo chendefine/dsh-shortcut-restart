@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Restart container",
+    "description": "Adds a “Restart container” row second-to-last in the account menu at the sidebar foot; selecting it makes the Host run this deployment's reboot command, so the container exits and its restart policy brings everything back and the page reconnects. Sessions on disk survive, unsaved in-memory state does not. Relies on the deployment's reboot helper or passwordless sudo.While any session is running it instead lists those sessions in a dialog and declines; the restart notice dismisses itself once the page reconnects.A confirmation dialog gates the restart.Live background jobs are detected too.",
+    "detail": "docs/DETAIL.md"
+  }
+}
